@@ -5,7 +5,7 @@ title: Nehal Islam
 author: 
 description: > 
   A professional & personal website.
-baseurl: ""
+baseurl: "www.nehalislam.com"
 
 plugins:
   - jekyll-feed

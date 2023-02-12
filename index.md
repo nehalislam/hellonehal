@@ -42,6 +42,4 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### Who is **Nehal**?  
-
-### **Nehal** is a MSc Epidemiology trainee. 
+### About **Nehal**?  
